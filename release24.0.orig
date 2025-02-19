@@ -4,14 +4,11 @@ function
 {
 main code()
 my first code
-}
-function1
-{
+<<<<<<< HEAD
 this is featurec code
-}
-function2
-{
+=======
 this is featured code
+>>>>>>> featured
 }
 }
 
