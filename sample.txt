@@ -1,2 +1,3 @@
 this is sample text for assesment
 This is the file without BPR
+here i added a hotfix added bpr rules to check
